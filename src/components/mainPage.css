@@ -1,0 +1,111 @@
+.bg-myRed {
+  background-color: crimson;
+}
+
+.content {
+  padding: 12px;
+  height: 3000px;
+}
+
+.coloring {
+  color: black;
+}
+.collapse{
+    color: brown !important;
+}
+.text {
+  font-size: 30px;
+}
+.aboutus {
+  margin-left: 50px;
+  font-size: 30px;
+}
+.peripherals {
+  font-size: 30px;
+  margin-left: 40px;
+}
+.components {
+  font-size: 30px;
+  margin-left: 40px;
+}
+.PC {
+  font-size: 30px;
+  margin-left: 120px;
+}
+#PCDropdown {
+  font-size: 30px;
+  margin-left: 120px;
+}
+.logo {
+  font-size: 30px;
+  margin-top: 12px;
+}
+.color-nav {
+  background-color: #0e0814 !important;
+  padding: 15px;
+  margin-bottom: 0;
+}
+.icon1 {
+  margin-top: -13px;
+  margin-left: 790px;
+}
+.icon2 {
+  margin-left: -14px;
+  margin-top: -13px;
+}
+.content {
+  background-color: #19062b;
+  margin-top: 0;
+}
+.PCitem1 {
+  font-size: 20px;
+}
+.Compitem1 {
+  font-size: 20px;
+}
+.Pitem1 {
+  font-size: 20px;
+}
+
+.contain{
+    background-color: yellowgreen;
+    padding: 30px 500px;
+    display: flex;
+    margin-left: 10px;
+}
+.col1{
+    /* background-color: yellowgreen; */
+    margin-left: -400px;
+    font-size: 80px;
+    text-align: center;
+    padding-right: 200px;
+    color: aliceblue;
+}
+.textBelow{
+    font-size: 40px;
+}
+.col2{
+    /* background-color: red; */
+    margin-left: 60px;
+    
+}
+.btn{
+    width: 35% !important;
+    height: 15% !important;
+    font-size: 25px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: #dfd3eb;
+    border-color: blueviolet;
+}
+.img2{
+    margin-right: 100px;
+    margin-top: 30px;
+}
+#nav-dropdown{
+    color: #d5ccde !important;
+}
+.btn:hover{
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
